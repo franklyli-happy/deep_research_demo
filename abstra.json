@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "name": "deep_research_demo",
+  "description": "A demo for LLM Deep Research",
+  "pages": [
+    {
+      "path": "search_window",
+      "title": "Deep Research Search Window",
+      "file": "pages/search_window.py"
+    }
+  ],
+  "environment": {
+    "python_version": "3.9+"
+  }
+}
